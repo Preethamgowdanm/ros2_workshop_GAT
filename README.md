@@ -30,20 +30,15 @@ This README outlines the key tasks and learnings from the workshop on using ROS2
       - Created a ROS2 package using colcon build tool.
       - Added Python scripts within the package for robot control and simulation tasks.
     * Outcome: Successfully built and executed a custom ROS2 package.
-    * ![Circle_Turtlebot](https://github.com/user-attachments/assets/4151e303-af62-43f5-a7dd-052f33690dfe)
-
-  
  
-   
-
-4. Drawing a Circle with TurtleBot in VS Code
+ 4. Drawing a Circle with TurtleBot in VS Code
     * Objective: Use VS Code to launch TurtleBot and draw a circle in simulation.
     * Steps:
       - Configured VS Code for ROS2 development.
       - Launched the TurtleBot simulation and executed commands to make the bot trace a circular path.
     * Outcome: Acquired hands-on experience in bot control and ROS2 integration with VS Code.
- 
-<p align="center"> <img src="./Images/Circle_Turtlebot.png">
+
+   * ![Circle_Turtlebot](https://github.com/user-attachments/assets/4151e303-af62-43f5-a7dd-052f33690dfe)
 
 5. Launching Gazebo with ```TurtleBot Waffle``` and Obstacles
     * Objective: Simulate a TurtleBot Waffle in Gazebo with obstacles.
