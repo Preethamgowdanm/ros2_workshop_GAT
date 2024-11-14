@@ -48,6 +48,8 @@ This README outlines the key tasks and learnings from the workshop on using ROS2
     * Outcome: Gained familiarity with Gazebo simulation environment and TurtleBot models.
 <p align="center"> <img src="./Images/Obstacle_course.png">
 
+![Obstacle_course](https://github.com/user-attachments/assets/ced20130-d652-4493-bf2e-e93f2964f4ed)
+
 6. Bot Control with ```teleop_key```
     * Objective: Manually control the TurtleBot using keyboard commands.
     * Steps:
@@ -55,13 +57,18 @@ This README outlines the key tasks and learnings from the workshop on using ROS2
       - Simulated obstacle avoidance and navigation in real-time.
     * Outcome: Learned the basics of teleoperation and manual control for robots.
 <p align="center"> <img src="./Images/Teleop_Key.png">
+![Teleop_Key](https://github.com/user-attachments/assets/ad741471-2bba-49e8-b0da-227f13126af5)
+
  
 7. Mapping the Area with RViz for Automatic Simulation
     * Objective: Map the Gazebo environment using RViz for autonomous bot navigation.
     * Steps:
        - Launched RViz alongside Gazebo to visualize and map the simulated area.
        - Used the map for autonomous pathfinding and area coverage by the TurtleBot.
-    * Outcome: Successfully mapped the environment and set up the TurtleBot for automatic navigation in simulation.
+    
+   * Outcome: Successfully mapped the environment and set up the TurtleBot for automatic navigation in simulation.
+   * ![Simulation_mapping_1](https://github.com/user-attachments/assets/729f5156-5be8-489c-891f-1f705d9af915)
+
 <p align="center"> <img src="./Images/Simulation_mapping_1.png">
 <p align="center"> <img src="./Images/Simulation_mapping_2.jpg">
 https://github.com/user-attachments/assets/4c9c8551-60e3-41cf-ab1f-3ee110c9f509
