@@ -68,6 +68,8 @@ This README outlines the key tasks and learnings from the workshop on using ROS2
     
    * Outcome: Successfully mapped the environment and set up the TurtleBot for automatic navigation in simulation.
    * ![Simulation_mapping_1](https://github.com/user-attachments/assets/729f5156-5be8-489c-891f-1f705d9af915)
+   * ![Simulation_mapping_2](https://github.com/user-attachments/assets/e86a1491-3100-4a13-9c42-db1e6fbb5bab)
+
 
 <p align="center"> <img src="./Images/Simulation_mapping_1.png">
 <p align="center"> <img src="./Images/Simulation_mapping_2.jpg">
